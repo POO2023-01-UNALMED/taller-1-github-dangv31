@@ -1,1 +1,0 @@
-Ahora si se puede crear un commit con la carpeta archivos porque, github desktop no detecta las carpetas vacìas, al crear el archivo txt dentro de esta ya si identifica la carpeta
