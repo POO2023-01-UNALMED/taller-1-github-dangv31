@@ -1,3 +1,1 @@
-Daniel Giraldo Vanegas
-19 años
-Mi aspiraciòn es pasarla
+Es importante tener cuidado al modificar dos archivos al mismo tiempo ya que se pueden crear conflictos al momento de hacer push
